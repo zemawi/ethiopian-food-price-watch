@@ -1,69 +1,9 @@
-========================================================
-
-# -------------------------
-# Core Data Science
-# -------------------------
-numpy
 pandas
-scipy
-
-# -------------------------
-# Visualization
-# -------------------------
+numpy
 matplotlib
-seaborn
-plotly
-
-# -------------------------
-# Jupyter
-# -------------------------
-jupyter
-jupyterlab
-ipykernel
-notebook
-
-# -------------------------
-# Machine Learning
-# -------------------------
 scikit-learn
 xgboost
-lightgbm
-
-# -------------------------
-# Time Series
-# -------------------------
 statsmodels
-pmdarima
-
-# -------------------------
-# Explainable AI
-# -------------------------
-shap
-
-# -------------------------
-# Statistical Analysis
-# -------------------------
-openpyxl
-
-# -------------------------
-# Dashboard
-# -------------------------
+prophet
 streamlit
-
-# -------------------------
-# Geographic Visualization
-# -------------------------
-folium
-streamlit-folium
-
-# -------------------------
-# Model Saving
-# -------------------------
 joblib
-
-# -------------------------
-# Utilities
-# -------------------------
-python-dateutil
-requests
-tqdm
